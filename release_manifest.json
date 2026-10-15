@@ -1,0 +1,16 @@
+{
+ "version": "v1.0",
+ "asset": "New_Roommania_Porori_Seishun_KO_v1.0.xdelta",
+ "asset_size": 152060211,
+ "asset_sha256": "824bb73552bdd6ced3f3f957d2e3381c3f6eb56e877f8e576496a13b77e15aa0",
+ "source_iso_size": 3534979072,
+ "source_iso_md5": "79ecbd45bed6b44c45a7b79933b2fc8e",
+ "source_iso_sha256": "c370956691deebaa0fb80139bf5210ee4255324d4836d389059e1906ac05520a",
+ "result_iso_size": 3534979072,
+ "result_iso_sha256": "66c7b730f13665fbc4d16e7593865a9498f6ad0df5ff446451293e143f630eb1",
+ "widescreen_pnach": "SLPM-65235_4CBE0B5C.pnach",
+ "widescreen_pnach_size": 4250,
+ "widescreen_pnach_sha256": "4defd955c127e654bd798ec19bc8fec4a5942a9b4619acd92e46292c8aa86667",
+ "original_elf_crc": "9EB4AA0B",
+ "korean_elf_crc": "4CBE0B5C"
+}

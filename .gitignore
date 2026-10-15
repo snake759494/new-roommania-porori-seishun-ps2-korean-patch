@@ -1,0 +1,20 @@
+# 게임 원본·산출물 (배포하지 않음)
+*.iso
+*.xdelta
+*.CVM
+*.SFD
+SLPM_652.35
+extract/
+work/
+movie/
+translation/
+# 글꼴·외부 실행 파일·이미지
+*.ttf
+*.otf
+*.exe
+*.dll
+*.png
+*.zip
+# 파이썬
+__pycache__/
+*.pyc
